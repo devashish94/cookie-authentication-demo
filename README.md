@@ -35,7 +35,7 @@ git clone git@github.com:devashish94/cookie-authentication-demo.git
     npm run build && npm run preview 
     ```
 
-this opens the vite production version, if you want the dev version then,
+  This opens the vite production version, if you want the dev version then,
 
   - ```bash
     npm run dev
