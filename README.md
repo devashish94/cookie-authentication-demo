@@ -32,18 +32,18 @@ git clone git@github.com:devashish94/cookie-authentication-demo.git
 - On the frontend terminal, to start the application 
 
   - ```bash
-npm run build && npm run preview 
+    npm run build && npm run preview 
     ```
 
 this opens the vite production version, if you want the dev version then,
 
   - ```bash
-npm run dev
+    npm run dev
     ```
 
 - On the backend terminal
   - ```bash
-npm start
+    npm start
     ```
 
 Now open the frontend url on your browser
