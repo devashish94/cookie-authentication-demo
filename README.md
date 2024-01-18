@@ -23,7 +23,7 @@ This is a simple full-stack authentication demo using cookie-based authenticatio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cookie-authentication-demo.git
+git clone git@github.com:devashish94/cookie-authentication-demo.git
 ```
 
 2. Open two terminals one for frontend and other for backend server
