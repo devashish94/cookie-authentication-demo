@@ -7,6 +7,7 @@ This is a simple full-stack authentication demo using cookie-based authenticatio
 - User registration and login
 - Cookie-based authentication
 - Logout functionality
+- No styling
 
 ## Technologies Used
 
@@ -28,7 +29,7 @@ git clone git@github.com:devashish94/cookie-authentication-demo.git
 
 2. Open two terminals one for frontend and other for backend server
 
-On the frontend terminal, to start the application 
+- On the frontend terminal, to start the application 
 
 ```bash
 npm run build && npm run preview 
@@ -40,8 +41,9 @@ this opens the vite production version, if you want the dev version then,
 npm run dev
 ```
 
-On the backend terminal
+- On the backend terminal
 ```bash
 npm start
 ```
 
+Now open the frontend url on your browser
